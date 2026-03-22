@@ -4,7 +4,7 @@ const weatherResult = document.getElementById("weather-info");
 const celsiusBtn = document.getElementById("celsius-button");
 const fahrenheitBtn = document.getElementById("fahrenheit-button");
 
-const API_KEY="a0651c8650e687a927f3699b8ba17e18";
+const API_KEY="enter_your_API_key";
 
 let weatherdata= null;
 let currentUnit= "C";
